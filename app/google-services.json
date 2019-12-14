@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701497452650",
+    "firebase_url": "https://kirillakitanikita.firebaseio.com",
+    "project_id": "kirillakitanikita",
+    "storage_bucket": "kirillakitanikita.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701497452650:android:cb26b3b5b08c16fdc54213",
+        "android_client_info": {
+          "package_name": "com.example.shmakin_byharik_analytik"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701497452650-j6dfb95fa7l59qhbm77bhfluti8s9enu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shmakin_byharik_analytik",
+            "certificate_hash": "d6668ab45be12667a7014e20110f2c49173f12c2"
+          }
+        },
+        {
+          "client_id": "701497452650-srl2mkitcn469r4culginbkmd9q7achp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArzCbHx2JIjav6zLtonwryUUhCUF9wk50"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701497452650-srl2mkitcn469r4culginbkmd9q7achp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
